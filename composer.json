@@ -1,0 +1,20 @@
+{
+    "name": "vendor name/KataSkeleton",
+    "description": "Description is needed",
+    "license": "License is needed",
+    "authors": [
+        {
+            "name": "Your name",
+            "email": "your@email.com",
+            "homepage": "your.home.page.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "KataSkeleton": "src"
+        }
+    }
+}
