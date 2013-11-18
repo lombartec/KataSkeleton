@@ -4,7 +4,7 @@ KataSkeleton
 Basic skeleton for doing Katas
 
 1. Modify <b>composer.json</b> file to suit your needs.
-2. Run <b>$ composer install</b> in the KataSkeleton base folder to install dependencies, if needed.
+2. Run <b>$ composer install</b> in the KataSkeleton base folder to generate the autoloading file and, install dependencies if needed.
 
 Notes
 -----------
