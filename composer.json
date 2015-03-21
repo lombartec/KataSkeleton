@@ -5,12 +5,11 @@
     "authors": [
         {
             "name": "Your name",
-            "email": "your@email.com",
-            "homepage": "your.home.page.com"
+            "email": "your@email.com"
         }
     ],
     "require": {
-        "phpunit/phpunit": "3.7.*"
+        "phpunit/phpunit": "*"
     },
     "autoload": {
         "psr-0": {
