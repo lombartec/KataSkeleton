@@ -1,13 +1,12 @@
-KataSkeleton
-============
+#KataSkeleton
 
-Basic skeleton for doing Katas
+Basic skeleton for doing Katas.
 
-1. Modify <b>composer.json</b> file to suit your needs.
-2. Run <b>$ composer install</b> in the KataSkeleton base folder to generate the autoloading file and, install dependencies if needed.
+###How to use
 
-Notes
------------
+1. Modify **composer.json** file to suit your needs.
+2. Run **composer install**.
 
-* Empty folders are preserved with an empty .gitkeep file, remove this file when putting new content in the folder that holds it.
-* There is a phpunit.xml.dist file used in conjunction with a bootstrap.php file to autoload using the composer autoload system.
+###Notes
+
+* The `phpunit` executable file will be placed at `PROJECT_ROOT/bin` folder.
